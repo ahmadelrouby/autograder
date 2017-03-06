@@ -3,6 +3,7 @@
 The Script is used to auto grade c++ assignments.
 
 The Requirements:
+   
     * .cpp file containing a tested a program that's fully functioning.
     
     
@@ -12,6 +13,7 @@ The Requirements:
     * Folders with student names containing .cpp file with similar name as the main one.
 
 Features:
+
     * Case Sensitivity can be ignored while grading.
     
     
